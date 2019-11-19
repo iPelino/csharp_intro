@@ -1,0 +1,11 @@
+/home/pelino/RiderProjects/SalaryApp/SalaryApp/bin/Debug/netcoreapp3.0/SalaryApp
+/home/pelino/RiderProjects/SalaryApp/SalaryApp/bin/Debug/netcoreapp3.0/SalaryApp.deps.json
+/home/pelino/RiderProjects/SalaryApp/SalaryApp/bin/Debug/netcoreapp3.0/SalaryApp.runtimeconfig.json
+/home/pelino/RiderProjects/SalaryApp/SalaryApp/bin/Debug/netcoreapp3.0/SalaryApp.runtimeconfig.dev.json
+/home/pelino/RiderProjects/SalaryApp/SalaryApp/bin/Debug/netcoreapp3.0/SalaryApp.dll
+/home/pelino/RiderProjects/SalaryApp/SalaryApp/bin/Debug/netcoreapp3.0/SalaryApp.pdb
+/home/pelino/RiderProjects/SalaryApp/SalaryApp/obj/Debug/netcoreapp3.0/SalaryApp.csprojAssemblyReference.cache
+/home/pelino/RiderProjects/SalaryApp/SalaryApp/obj/Debug/netcoreapp3.0/SalaryApp.AssemblyInfoInputs.cache
+/home/pelino/RiderProjects/SalaryApp/SalaryApp/obj/Debug/netcoreapp3.0/SalaryApp.AssemblyInfo.cs
+/home/pelino/RiderProjects/SalaryApp/SalaryApp/obj/Debug/netcoreapp3.0/SalaryApp.dll
+/home/pelino/RiderProjects/SalaryApp/SalaryApp/obj/Debug/netcoreapp3.0/SalaryApp.pdb
