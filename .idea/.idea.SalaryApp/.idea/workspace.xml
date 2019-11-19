@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6fa87502-d78e-4b4b-90f2-69f6484de124" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SalaryApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SalaryApp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SalaryApp/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SalaryApp/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SalaryApp/SalaryCalculator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SalaryApp/SalaryCalculator.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574152621347</updated>
-      <workItem from="1574152622776" duration="2448000" />
+      <workItem from="1574152622776" duration="3854000" />
     </task>
     <servers />
   </component>
